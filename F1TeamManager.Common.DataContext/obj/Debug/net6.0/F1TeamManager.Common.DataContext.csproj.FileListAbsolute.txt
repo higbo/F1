@@ -1,0 +1,14 @@
+D:\Projects\12_C#\BLZR\F1\F1TeamManager.Common.DataContext\bin\Debug\net6.0\F1TeamManager.Common.DataContext.deps.json
+D:\Projects\12_C#\BLZR\F1\F1TeamManager.Common.DataContext\bin\Debug\net6.0\F1TeamManager.Common.DataContext.dll
+D:\Projects\12_C#\BLZR\F1\F1TeamManager.Common.DataContext\bin\Debug\net6.0\F1TeamManager.Common.DataContext.pdb
+D:\Projects\12_C#\BLZR\F1\F1TeamManager.Common.DataContext\obj\Debug\net6.0\F1TeamManager.Common.DataContext.csproj.AssemblyReference.cache
+D:\Projects\12_C#\BLZR\F1\F1TeamManager.Common.DataContext\obj\Debug\net6.0\F1TeamManager.Common.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\12_C#\BLZR\F1\F1TeamManager.Common.DataContext\obj\Debug\net6.0\F1TeamManager.Common.DataContext.AssemblyInfoInputs.cache
+D:\Projects\12_C#\BLZR\F1\F1TeamManager.Common.DataContext\obj\Debug\net6.0\F1TeamManager.Common.DataContext.AssemblyInfo.cs
+D:\Projects\12_C#\BLZR\F1\F1TeamManager.Common.DataContext\obj\Debug\net6.0\F1TeamManager.Common.DataContext.csproj.CoreCompileInputs.cache
+D:\Projects\12_C#\BLZR\F1\F1TeamManager.Common.DataContext\obj\Debug\net6.0\F1TeamManager.Common.DataContext.dll
+D:\Projects\12_C#\BLZR\F1\F1TeamManager.Common.DataContext\obj\Debug\net6.0\refint\F1TeamManager.Common.DataContext.dll
+D:\Projects\12_C#\BLZR\F1\F1TeamManager.Common.DataContext\obj\Debug\net6.0\F1TeamManager.Common.DataContext.pdb
+D:\Projects\12_C#\BLZR\F1\F1TeamManager.Common.DataContext\obj\Debug\net6.0\ref\F1TeamManager.Common.DataContext.dll
+D:\Projects\12_C#\BLZR\F1\F1TeamManager.Common.DataContext\bin\Debug\net6.0\F1TeamManager.Common.DataContext.runtimeconfig.json
+D:\Projects\12_C#\BLZR\F1\F1TeamManager.Common.DataContext\obj\Debug\net6.0\F1TeamManager.Common.DataContext.genruntimeconfig.cache
