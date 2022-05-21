@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2mPraSiLBenA22zvlPRWvIEMb7rzK/dqKtbMsUr26GA=",
+  "Source": "F1TeamManager.WebApi",
+  "BasePath": "_content/F1TeamManager.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
